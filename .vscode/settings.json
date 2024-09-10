@@ -2,6 +2,8 @@
     "markdown.marp.themes": [
       "https://example.com/foo/bar/custom-theme.css",
       "./themes/UCASSimple.css",
-      "./themes/UCASSce.css"
+      "./themes/UCASSce.css",
+      "./themes/Simple.css",
+      "./themes/SimpleHuge.css"
     ]
   }
